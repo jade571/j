@@ -1,6 +1,6 @@
 let jade = 0
 basic.showLeds(`
-    . . . . .
+    . . # . .
     . # # # .
     . . # . .
     . . # . .
